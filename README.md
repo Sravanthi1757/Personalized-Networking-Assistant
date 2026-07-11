@@ -203,19 +203,26 @@ pytest -v
 
 # 📸 Application Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-_Add screenshot here_
 
-### Conversation Generator
+<img width="1600" height="826" alt="WhatsApp Image 2026-07-10 at 3 28 46 PM (1)" src="https://github.com/user-attachments/assets/dc47bfef-1b73-4eeb-b189-f6377a2825fb" />
 
-_Add screenshot here_
 
-### Fact Verification
+### 💬 Conversation Generator
 
-_Add screenshot here_
 
-### Swagger API Documentation
+<img width="1600" height="747" alt="WhatsApp Image 2026-07-10 at 3 29 38 PM (1)" src="https://github.com/user-attachments/assets/c76952da-e5cd-4ed6-a378-c19931a750e6" />
+
+
+### 📋 Feedback History
+
+
+<img width="1600" height="836" alt="WhatsApp Image 2026-07-10 at 3 30 51 PM (1)" src="https://github.com/user-attachments/assets/244cdd86-ca00-4e91-ada6-0ac2e6867c91" />
+
+
+### 📖 Swagger API Documentation
+
 
 <img width="1600" height="834" alt="WhatsApp Image 2026-07-11 at 5 59 53 PM" src="https://github.com/user-attachments/assets/aec1c81c-70e9-4aa6-9e5c-66cdd695ed30" />
 
