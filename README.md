@@ -215,6 +215,12 @@ pytest -v
 <img width="1600" height="747" alt="WhatsApp Image 2026-07-10 at 3 29 38 PM (1)" src="https://github.com/user-attachments/assets/c76952da-e5cd-4ed6-a378-c19931a750e6" />
 
 
+### 🔍 Quick Fact-Check
+
+
+<img width="1600" height="838" alt="WhatsApp Image 2026-07-17 at 8 10 04 AM" src="https://github.com/user-attachments/assets/a7a566cd-ecdb-472a-9a5c-51c78352bace" />
+
+
 ### 📋 Feedback History
 
 
