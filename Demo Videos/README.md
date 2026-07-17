@@ -57,3 +57,4 @@ This video explains the implementation of the project, including:
 **Personalized Networking Assistant**
 
 An AI-powered web application that generates personalized conversation starters for professional networking events using Natural Language Processing (NLP).
+An AI-powered web application that generates personalized conversation starters for professional networking events using Natural Language Processing (NLP).
