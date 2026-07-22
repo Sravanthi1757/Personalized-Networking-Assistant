@@ -14,17 +14,16 @@ Access all project documentation using the Google Drive link below:
 
 ## 📑 Available Documents
 
-The Google Drive folder includes:
+The Google Drive folder contains documents for:
 
-- 📄 Project Report
-- 📘 Software Requirements Specification (SRS)
-- 🏗️ System Design Documentation
-- 🖼️ Application Screenshots
-- 🔗 API Documentation (Swagger)
-- 🧪 Testing Reports
-- 📊 Project Presentation (PPT)
-- 🎥 Demo Videos
-- 📋 Additional Supporting Documents
+- 💡 Brainstorming & Ideation
+- 📋 Requirement Analysis
+- 🏗️ Project Design Phase
+- 📅 Project Planning Phase
+- 💻 Project Development Phase
+- 🧪 Project Testing
+- 📄 Project Documentation
+- 🎯 Project Demonstration
 
 ---
 
